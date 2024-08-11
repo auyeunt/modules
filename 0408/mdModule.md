@@ -160,11 +160,21 @@ Users who are comfortable with Markdown can use the edit (writing instrument ico
 
 After each revision, click "Commit Change" so that the revision is tracked *along the forked branch*. This means the revision does not make it to the `MAIN` branch for everyone to see. While changes are being made to a forked branch, the `MAIN` branch can also have its own revisions.
 
+### Forking with the intention to merge
+
 A forked branch can remain forked forever. Typically, however, a forked branch is *merged* with the main branch once the changes are finalized. This allows the contribution to be shared with the general user base.
 
 When a forked branch is ready to be merged to the `MAIN` branch, click "Create pull request". This notifies the owner of a repository about the availability of a forked branch to be merged. In a "pull request," be descriptive of what the fork is about.
 
 Fork/pull is better than using "Issues." Fork/pull only needs the manager of the repository to *verify* the changes before merging to the `MAIN` branch. This is the most effective way to contribute to OER content. However, unlike the previous approaches, fork/pull does require the contributor to be comfortable editing content in Markdown (or whatever the source language is).
+
+### Forking permanently
+
+A learner may want to create a fork permanently to incorporate the learner's own notes and annotations. At the same time, the learner may also want to get the latest updates to the original document. This can be done entirely using the GitHub web interface.
+
+* The learner creates the initial fork.
+* The learner updates this forked branch with annotations and notes.
+* When the main branch is updated, the learner use "Sync fork" to incorporate non-conflicting updates from the main branch.
 
 ## Cloning (importing)
 
