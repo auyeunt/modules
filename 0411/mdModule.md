@@ -49,3 +49,7 @@ Full-time faculty members are required to attend convocation, the division meeti
 There are two open full-time positions available: one [programming/web position](https://www.schooljobs.com/careers/losriosccd/Faculty/jobs/4566495/computer-information-science-assistant-professor-programming-and-web) and one [cybersecurity/networking](https://www.schooljobs.com/careers/losriosccd/Faculty/jobs/4566536/computer-information-science-assistant-professor-cybersecurity-networking-and-c). If you are interested, please click the links and submit your application before the deadline.
 
 Those who are interested can contact anyone to seek advice. However, once the memberships of hiring committees are determined, members of hiring committees should refrain from offering advice.
+
+# Tak's personal log
+
+This portion is Tak's own comments.
