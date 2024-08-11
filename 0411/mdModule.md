@@ -53,3 +53,5 @@ Those who are interested can contact anyone to seek advice. However, once the me
 # Tak's personal log
 
 This portion is Tak's own comments.
+
+We can also continue to work with the branch!
