@@ -51,8 +51,8 @@ version of the following rule:
 isAJedi(lukeSkywalker) :- true.
 ```
 
-This spelled out rule literally says "lukeSkywalker isAJedi is implied
-by true". However, we already know that in order for an implication (a
+This spelled-out rule literally says "lukeSkywalker isAJedi is implied
+by true", in mathematical notation, "lukeSkywalker isAJedi" $\Leftarrow$ "true". However, we already know that in order for an implication (a
 Prolog rule) to be true, and the antecedent is already true, the
 consequent must be true as well. In other words, this rule says
 "lukeSkywalker isAJedi" in short.
