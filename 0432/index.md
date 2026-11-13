@@ -4,7 +4,7 @@ title: "Module 0432: TTP assembly language basics"
 
 # About this module
 
--   Prerequisites: [0352](../0352), [0298](../0298), [0299](../0299)
+-   Prerequisites: [0283](../0283), [0351](../0351), [0352](../0352), [0298](../0298), [0299](../0299)
 
 -   Objectives: This module describes the TTP architecture -- its registers, RAM,
     ALU and the five flags -- the instruction set, how labels are
@@ -81,6 +81,8 @@ L1: .
 # Conventions related to C
 
 ## The stack
+
+This section only states TTP's stack conventions, for reference. What a stack is (last in, first out) and why push and pop are written this way is explained in [0304](../0304). You do not need that yet to read the rest of this module; return to this section after 0304.
 
 There is no dedicated stack pointer. Register D is the designated stack pointer. The region of space available for the stack ranges from the location immediately following the assembled program, all the way to the end of the RAM memory space. Because the RAM component has an 8-bit address port, the end address of the stack is location 255.
 

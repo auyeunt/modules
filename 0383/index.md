@@ -49,7 +49,7 @@ The controller is responsible for the coordination of all the other parts of TTP
 
 Technically, the RAM component is not a part of TTP. In reality, RAM is often outside of the die of a processor because it takes up more spaces. However, the are processor chips that include RAM when the amount of RAM can be combined to the same die.
 
-RAM is used to store/supply opcodes, this is the main idea of a von Neumann architecture. However, RAM is also used to store global variables, as well as the stack.
+RAM is used to store/supply opcodes, this is the main idea of a von Neumann architecture. However, RAM also stores global variables, as well as the stack (the region described in [0432](../0432)'s conventions; [0304](../0304) explains what a stack is). For the von Neumann idea, only the location matters: program and data share one RAM.
 
 # Registers that are not software addressable
 
