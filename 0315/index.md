@@ -6,7 +6,7 @@ title: "Module 0315: Predicate Calculus via Prolog"
 
 -   Prerequisites: [0279](../0279), [0443](../0443), [0382](../0382), [0289](../0289), [0297](../0297)
 
--   Objectives: This module introduces predicate calulus by using
+-   Objectives: This module introduces predicate calculus by using
     examples of using Prolog.
 
 # Introducing Prolog
@@ -32,11 +32,11 @@ discourse, or simply "universe". For the rest of this document, let us
 use $U$ to represent this set.
 
 A predicate $p$ is conceptually a function that maps a tuple of elements
-of $U$ to true or false, that is, $p:\prod_{i=0}^{k}U \rightarrow
-  \{0,1\}$. In this notation, $k$ represents the length of the tuple.
+of $U$ to true or false, that is, $p:\prod_{i=0}^{k-1}U \rightarrow
+  \\{0,1\\}$. In this notation, $k$ represents the length of the tuple.
 
 A predicate is expressed by one or more rules in Prolog. A rule in
-Prolog is an implicate that has the general form of "predicate is
+Prolog is an implication that has the general form of "predicate is
 implied by an expression". Let us examine a few rules.
 
 ```prolog
@@ -51,8 +51,8 @@ version of the following rule:
 isAJedi(lukeSkywalker) :- true.
 ```
 
-This spelled out rule literally says "lukeSkywalker isAJedi is implied
-by true". However, we already know that in order for an implication (a
+This spelled-out rule literally says "lukeSkywalker isAJedi is implied
+by true", in mathematical notation, "lukeSkywalker isAJedi" $\Leftarrow$ "true". However, we already know that in order for an implication (a
 Prolog rule) to be true, and the antecedent is already true, the
 consequent must be true as well. In other words, this rule says
 "lukeSkywalker isAJedi" in short.

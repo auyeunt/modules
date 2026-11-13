@@ -49,6 +49,8 @@ After the import, the "analysis" sheet displays the log of the execution of your
 
 You can use `riverSpider` to automate a large portion of the steps. Go to the [shared folder](https://drive.google.com/drive/folders/0BxsMACqxAFNwUkJxWmJKZ0R3Ync?resourcekey=0--R62aR3g30jRuZT_YoC30Q&usp=drive_link) and download `riverSpiderMac.zip` for Mac OS or `cygRiverSpider.7z` for Windows. Watch [this video](https://youtu.be/SO_uWlbsZkk) for a step-by-step explanation. Windows users should watch the entire video, while Mac OS users can skip to the 10:00 mark after downloading and unzipping `riverSpiderMac.zip`.
 
+Note that you may want to re-download `logisim310.jar`, `processor0004.circ`, `alu.circ`, and `regbank.circ` from the Google Drive folder after decompressing the archive files to get the latest versions. 
+
 ## Windows
 
 If you get the Windows version, you need to download and install [7-zip](https://www.7-zip.org/download.html) to decompress the "7z" file. I suggest that you right-click on `cygRiverSpider.7z`, then `7-Zip`, then `Extract Here` or `Extract files...`. The file decompresses to use about 1.5GB of space.
