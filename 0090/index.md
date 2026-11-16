@@ -13,7 +13,7 @@ title: "Module 0090: Categories of Time Complexity"
 
 Linear search has a time complexity of $T(n) \in \Theta(n)$, where
 $T(n)$ is the actual amount of time needed to search for an item in an
-array of $n$ items. This part is proven in module [0085](../0085).
+array of $n$ items.
 
 However, to make this more useful, any algorithm that has a time
 complexity of $T(n) = k_1 + T(n-1)$ also has the same time complexity of
