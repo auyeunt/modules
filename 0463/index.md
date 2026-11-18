@@ -42,4 +42,10 @@ AI literacy is important because it helps learners make that transition.
 
 # Starting with the end, employer expectations
 
-AI tools change what employers expect from employees. 
+AI tools change what employers expect from employees. In a way, employers are expecting each employee to become a supervisor of the AI tools. Specifically, an employee using AI has the following responsibilities relative to the AI tool:
+
+* Task identification and assignment: *What* (not *how*) needs to be done. This requires a thorough and accurate description, implying the supervisor must have domain knowledge competency.
+* Performance evaluation and feedback: how well is each task being one? This requires critical thinking. If an AI tool is not producing the correct outcome, the feedback needs to be clear. This requires the ability to differentiate what is needed versus what is delivered, describe the difference accurately and completely, and potentially guide the AI tool to close the gap. This part requires skills in articulation (writing).
+* Training: not in the sense of neural net training, but occasionally demonstrating how a task is done. AI tools can learn and build "skills" by observing how humans perform tasks. This part requires both domain knowledge competency as well as problem-solving skills.
+
+
