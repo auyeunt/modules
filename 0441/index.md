@@ -10,3 +10,4 @@ title: "Module 0441: A super-catalog of student related modules"
 * [Concept Mapping Tool](https://docs.google.com/spreadsheets/d/1HoOdVDKuap5XL8ujqy0Go691bi8b8ddgYX6PpMlpvAs/edit?usp=sharing)
 * [Pathway U Career alignment tool](https://arc.losrios.edu/admissions/pathwayu-career-exploration)
 * [Symbols, Definitions, Rigor, and Precision](https://auyeunt.github.io/modules/0420)
+* [AI Literacy for higher ed students](https://auyeunt.github.io/module/0463).
