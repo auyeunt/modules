@@ -48,4 +48,15 @@ AI tools change what employers expect from employees. In a way, employers are ex
 * Performance evaluation and feedback: how well is each task being one? This requires critical thinking. If an AI tool is not producing the correct outcome, the feedback needs to be clear. This requires the ability to differentiate what is needed versus what is delivered, describe the difference accurately and completely, and potentially guide the AI tool to close the gap. This part requires skills in articulation (writing).
 * Training: not in the sense of neural net training, but occasionally demonstrating how a task is done. AI tools can learn and build "skills" by observing how humans perform tasks. This part requires both domain knowledge competency as well as problem-solving skills.
 
+# How to ask AI for help in education
+
+Consider the following alternatives:
+
+* Do my homework for me
+* Help me do my homework
+* Help me understand what I need to learn so that I can do my homework
+* Help me develop the skills and habits that I need to understand the course material by myself so that I can do my homework
+* Help me develop the skills and habits that I need to understand the course material by myself so that I can prepare for my career by doing my homework
+
+The previous list is a progression of how to prompt an LLM (Large Language Model), from a pure shortcut to a career-aware and self-improving deep dive. The list of prompts is here, but which item an individual *chooses* is still up to the individual.
 
