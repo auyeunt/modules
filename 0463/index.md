@@ -60,3 +60,26 @@ Consider the following alternatives:
 
 The previous list is a progression of how to prompt an LLM (Large Language Model), from a pure shortcut to a career-aware and self-improving deep dive. The list of prompts is here, but which item an individual *chooses* is still up to the individual.
 
+## Asking an AI for a direct answer
+
+In an educational setting, this approach does not help the user actually learn the material. More importantly, the user is not learning ho to learn new material. A prolonged exposure to this kind query leads to a decay of cognitive capabilities.
+
+## Asking an AI for help without the specifics of "how"
+
+Prompting an AI to help provides hints to an AI to use more explanation in the disclosure of the answer. But this kind of explanation is one-way. The AI does not try to assess the competency of the user. The explanation can be too little or too much without interaction with the user.
+
+## Asking an AI for help to understand content materials
+
+This kind of prompt is a gentle hint to the AI to assess how much the user already understands. However, an AI can still assume the competency of a user on prerequisite topics.
+
+The biggest problem with this approach is it can still develop a dependency on AI to read, parse, and digest the material. 
+
+## Asking an AI for help to develop learning skills and habits so the user can independently understand the materials
+
+This kind of prompt does **not** directly address the questions in assignments. Instead, it is a request for "meta" skills so that the user can, over time, learn how to read, think, and write effectively. The learned skills and habits can apply to other classes.
+
+This kind of request hints the AI to help develop skills in reading, analysis, critical thinking, and problem solving.
+
+## Asking an AI for help to develop learning skills and habits so the user can independently understand the materials and relate the skills and habits to careers
+
+This is the "long game" request that relates learning skills and habits for education that also apply to careers. This approach hints the AI to teach the "meta" skills and habits so that the user can understand complex material without the use of AI later. However, this approach also explains why these skills and habits are useful in the long run
