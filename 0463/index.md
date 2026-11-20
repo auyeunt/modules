@@ -22,21 +22,21 @@ AI *can* be the analog of easy-access calorie for the brain. The availability of
 
 To understand why the excessive use of AI in the learning process is counter productive, we have to examine why education itself is important. 
 
-For most higher ed students, education is the very last step before seeking long-term employment to make a living. "Success" in education should never be defined based on pass rate or GPA. Instead, educational success should be evaluated based on how education prepare an individual for live-long career and general success in life.
+For most higher ed students, education is the very last step before seeking long-term employment to make a living. "Success" in education should never be defined based on pass rate or GPA. Instead, educational success should be evaluated based on how education prepare an individual for life-long career and general success in life.
 
-As such, "getting a good grade" is an incomplete objective. This mentality blinds the more important objective of education. Unfortunately, the use of AI makes it too easy too get a good grade, widening the blind pot.
+As such, "getting a good grade" is an incomplete objective. This mentality blinds the more important objective of education. Unfortunately, the use of AI makes it too easy to get a good grade, widening the blind spot.
 
-## Employers expects employees to use AI as a tool
+## Employers expect employees to use AI as a tool
 
 If a learner relies on AI for assessments that reflect employer demands, then an employer cannot justify the salary to hire the learner because AI can do everything that the learner "demonstrates".
 
-As a tool, AI does not replace people, in general. Think of the transition due to the invention of the print press. Before the print press was invented, books must be copied manually and laboriously. Scribes were hired to copy books and manuscripts. Once the print press was invented, scribes were no long needed.
+As a tool, AI does not replace people, in general. Think of the transition due to the invention of the printing press. Before the printing press was invented, books must be copied manually and laboriously. Scribes were hired to copy books and manuscripts. Once the printing press was invented, scribes were no longer needed.
 
-Did that lead to unemployment? Yes, a temporary dip. However, scribes eventually became the experts of the materials that they copy, or operators of print presses, or somewhere along the chain of people needed in the much more massive publication businesses. In other words, instead of performing repetitive and laborious work, the print press freed up human talents for other tasks. Furthermore, the capability to mass produce books open new opportunities and created jobs that did not exist before the invention of the print press.
+Did that lead to unemployment? Yes, a temporary dip. However, scribes eventually became the experts of the materials that they copy, or operators of printing presses, or somewhere along the chain of people needed in the much more massive publication businesses. In other words, instead of performing repetitive and laborious work, the printing press freed up human talents for other tasks. Furthermore, the capability to mass produce books open new opportunities and created jobs that did not exist before the invention of the printing press.
 
-Who made the transition? People who actually read and understood the text being copied. People who were flexible and retooled themselves to learn how to operate print presses. People who were entrepreneurial who think of publication as a new business model.
+Who made the transition? People who actually read and understood the text being copied. People who were flexible and retooled themselves to learn how to operate printing presses. People who were entrepreneurial who think of publication as a new business model.
 
-Who did not make the transition? People who insisted that hand copied text has more soul. People who insisted that the print press made text available to people who do not deserve access to text. People who refuse the then new reality. People who did not want to learn anything new.
+Who did not make the transition? People who insisted that hand copied text has more soul. People who insisted that the printing press made text available to people who do not deserve access to text. People who refuse the then new reality. People who did not want to learn anything new.
 
 AI literacy is important because it helps learners make that transition.
 
@@ -45,7 +45,7 @@ AI literacy is important because it helps learners make that transition.
 AI tools change what employers expect from employees. In a way, employers are expecting each employee to become a supervisor of the AI tools. Specifically, an employee using AI has the following responsibilities relative to the AI tool:
 
 * Task identification and assignment: *What* (not *how*) needs to be done. This requires a thorough and accurate description, implying the supervisor must have domain knowledge competency.
-* Performance evaluation and feedback: how well is each task being one? This requires critical thinking. If an AI tool is not producing the correct outcome, the feedback needs to be clear. This requires the ability to differentiate what is needed versus what is delivered, describe the difference accurately and completely, and potentially guide the AI tool to close the gap. This part requires skills in articulation (writing).
+* Performance evaluation and feedback: how well is each task being done? This requires critical thinking. If an AI tool is not producing the correct outcome, the feedback needs to be clear. This requires the ability to differentiate what is needed versus what is delivered, describe the difference accurately and completely, and potentially guide the AI tool to close the gap. This part requires skills in articulation (writing).
 * Training: not in the sense of neural net training, but occasionally demonstrating how a task is done. AI tools can learn and build "skills" by observing how humans perform tasks. This part requires both domain knowledge competency as well as problem-solving skills.
 
 # How to ask AI for help in education
@@ -62,7 +62,7 @@ The previous list is a progression of how to prompt an LLM (Large Language Model
 
 ## Asking an AI for a direct answer
 
-In an educational setting, this approach does not help the user actually learn the material. More importantly, the user is not learning ho to learn new material. A prolonged exposure to this kind query leads to a decay of cognitive capabilities.
+In an educational setting, this approach does not help the user actually learn the material. More importantly, the user is not learning how to learn new material. A prolonged exposure to this kind query leads to a decay of cognitive capabilities.
 
 ## Asking an AI for help without the specifics of "how"
 
