@@ -62,17 +62,23 @@ The previous list is a progression of how to prompt an LLM (Large Language Model
 
 ## Asking an AI for a direct answer
 
-In an educational setting, this approach does not help the user actually learn the material. More importantly, the user is not learning how to learn new material. A prolonged exposure to this kind query leads to a decay of cognitive capabilities.
+This kind of prompt typically involves a copy-and-paste of the raw text of a question in a homework assignment or an assessment.
+
+In an educational setting, this approach does not help the user actually learn the material. More importantly, the user is not learning how to learn new material. A prolonged exposure to this kind query leads to a decay of cognitive capabilities. This approach also potentially convinces the user of a level of competency that is artificially high. Such a perception is a positive feedback to the loop, reinforcing the habit of using AI to get direct answers.
 
 ## Asking an AI for help without the specifics of "how"
+
+This kind of prompt reflects that the user realizes a need for help. This realization is a significant difference from directly asking for an answer. The self-realization of "I need help" means the user acknowledges the need for help, hinting an openness to learn.
 
 Prompting an AI to help provides hints to an AI to use more explanation in the disclosure of the answer. But this kind of explanation is one-way. The AI does not try to assess the competency of the user. The explanation can be too little or too much without interaction with the user.
 
 ## Asking an AI for help to understand content materials
 
+This kind of prompt reflects that the user does not only realize a need for "help", but also a more specific goal of understanding the content material. 
+
 This kind of prompt is a gentle hint to the AI to assess how much the user already understands. However, an AI can still assume the competency of a user on prerequisite topics.
 
-The biggest problem with this approach is it can still develop a dependency on AI to read, parse, and digest the material. 
+The biggest problem with this approach is it can still develop a dependency on AI to read, parse, and digest the material. While industry employers generally are not concerned whether an employee can understand materials without the use of AI, it is beneficial to the worker not having an over-reliance on AI. 
 
 ## Asking an AI for help to develop learning skills and habits so the user can independently understand the materials
 
